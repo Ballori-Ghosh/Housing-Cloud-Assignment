@@ -9,3 +9,5 @@ For the solution of question 1 refer to these files
 For the solution of question 2 refer to the question2_solution.xlsm file.
 
 Finally, the Solution_Breakdown.pdf file provides the details of the solutions for both the questions.
+
+The python script for question 2 solution is - 'Question2_Python_Script.ipynb' and the final csv output file is in 'Question2_Python_script.csv'
